@@ -1,6 +1,2 @@
 const Router = require("./lib/router");
-
-module.exports = {
-	Router, 
-	FlowRouter:Router
-}
+module.exports = Router;
