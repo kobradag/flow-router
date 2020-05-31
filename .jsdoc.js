@@ -18,6 +18,6 @@ module.exports = {
         "template": "./node_modules/flow-jsdoc-template"
     },
     "templates": {
-        "name": "Flow Utils"
+        "name": "Flow Router"
     }
 }
