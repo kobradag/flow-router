@@ -1,6 +1,6 @@
 {
   "name": "@aspectron/flow-router",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "HTTP middlware router for Flow UX",
   "main": "index.js",
   "repository": {
